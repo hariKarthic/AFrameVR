@@ -1,0 +1,21 @@
+{
+  "name": "theaframe",
+  "version": "1.0.0",
+  "description": "a a-frame project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aframe"
+  ],
+  "author": "hkm",
+  "license": "ISC",
+  "dependencies": {
+    "aframe": "^0.7.1",
+    "aframe-physics-system": "^2.1.0"
+  },
+  "devDependencies": {
+    "angle": "^0.7.1"
+  }
+}
